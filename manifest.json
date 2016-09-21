@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "White Noise App",
-  "description": "This extension shows a Google Image search result for the current page",
-  "version": "1.0",
+  "description": "This extension plays white noise in your browser",
+  "version": "1.1",
 
   "browser_action": {
     "default_icon": "icon.png"
